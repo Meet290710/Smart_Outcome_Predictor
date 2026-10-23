@@ -87,7 +87,6 @@ pr_5/
 └── Smart_Outcome_Predictor_Meet_mehta_12237.mp4
 ```
 
-> Keep the dataset in `data/` if you want the app to load it automatically. Alternatively, upload a CSV or Excel file from the app sidebar.
 
 ## 🚀 Run Locally
 
