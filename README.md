@@ -28,6 +28,16 @@ The dashboard lets users preview the dataset, train and compare models, inspect 
 
 > ⚠️ This project is intended for educational use. Predictions should not be treated as definitive judgments about a student or used for consequential decisions without careful validation, fairness checks, and human oversight.
 
+## 🌐 Live Demo
+
+🚀 **Try Smart Outcome Predictor Online!**
+
+Experience the live Streamlit application here:
+
+👉 **[Launch Smart Outcome Predictor](https://smart-outcome-predictor01.streamlit.app/)**
+
+Explore the interactive Machine Learning app to predict student completion status and estimate final scores using ensemble learning techniques.
+
 ## ✨ Key Features
 
 - 📂 Upload a dataset in **CSV or Excel** format, or use the included Excel dataset.
